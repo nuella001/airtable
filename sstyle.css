@@ -17,9 +17,18 @@ body{
     border-radius: 20px;
     margin-top: 20px;
 }
+.container p {
+    margin-bottom: 50px;
+    margin-top: 10px;
+}
+.container h1{
+    font-size: 70px;
+}
 button{
-    padding: 15px 70px;
+    padding: 20px 80px;
     background-color: transparent;
     border: 1px solid black;
-    border-radius: 25px;
+    border-radius: 30px;
+    display: block;
+    margin: 20px auto;
 }
